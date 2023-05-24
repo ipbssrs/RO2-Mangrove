@@ -37,9 +37,9 @@ SSRS RO2 - Mangrove Research Group is a research group of IPB SSRS Association
 * [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/78?title=P5&color=grey)](https://shields.io/) 
 
 ## `Publication`
-* Rahmawati AD, Asy'Ari R. 2021. Google Earth Engine: Pemanfaatan Platform Pemetaan Berbasis Cloud Computing dalam Mendeteksi Distribusi Mangrove Dengan Citra Sentinel-2 di Jakarta. 
-* Asy'Ari R, Rahmawati AD, Sa'diyya N, Gustawan AH, Setiawan Y, Zamani NP, Pramulya R. 2022. Mapping Mangrove Forest Distribution on Banten, Jakarta, and West Java Ecotone Zone From Sentinel-2-Derived Indices Using Cloud Computing Based Random Forest. 
-* Rahmawati AD, Asy'Ari R, Fathonah MA, Priyanto, Zamani NP, Pramultya R, Setiawan Y. Vegetation-Water-Built Up Index Combined: Algorithm Indices Combination for Characterization and Distribution of Mangrove Forest through Google Earth Engine
+* Rahmawati AD, Asy'Ari R. 2021. Google Earth Engine: Pemanfaatan Platform Pemetaan Berbasis Cloud Computing dalam Mendeteksi Distribusi Mangrove Dengan Citra Sentinel-2 di Jakarta. https://cloud.big.go.id/index.php/s/ProsidingSNGVI2021#pdfviewer
+* Asy'Ari R, Rahmawati AD, Sa'diyya N, Gustawan AH, Setiawan Y, Zamani NP, Pramulya R. 2022. Mapping Mangrove Forest Distribution on Banten, Jakarta, and West Java Ecotone Zone From Sentinel-2-Derived Indices Using Cloud Computing Based Random Forest. https://doi.org/10.29244/jpsl.12.1.97-111
+* Rahmawati AD, Asy'Ari R, Fathonah MA, Priyanto, Zamani NP, Pramultya R, Setiawan Y. Vegetation-Water-Built Up Index Combined: Algorithm Indices Combination for Characterization and Distribution of Mangrove Forest through Google Earth Engine. https://doi.org/10.52045/jca.v3i1.298
 ________________________________________________________________________________________________________________________________________________________
 
 
