@@ -1,12 +1,30 @@
-# RO2-Mangrove
+# SSRS RO2 - Mangrove Reseacrh Group 
 
-##Overview
+## `Overview`
+
 SSRS RO2 - Mangrove Research Group is a research group of IPB SSRS Association
 
-<br/>
-<br/>
-<br/>
-
+## `Supervisor`
+ - **Dr. Yudi Setiawan, S.P., M.Env.Sc**, _Department of Forest Resources Conservation and Ecotourism, Faculty of Forestry and Environment, IPB University_
+## `Reseacrh Team`
+- **Azelia Dwi Rahmawati** (RO Coordinator), _Departement of Forest Management, Faculty of Forestry and Environment, IPB University_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-azeliadr-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/azeliadr/) 
+- **Khairani Putri Marfi** (RO Secretary), _Departement of Silvicuture, Faculty of Forestry and Environment, IPB University_
+   <br /> [![GitHub](https://img.shields.io/badge/GitHub-khairanimarfi-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/khairanimarfi/) 
+- **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
+    <br /> [![GitHub](https://img.shields.io/badge/GitHub-arihutan-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/arihutan/)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Rahmat-Asyari)  [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmat-asy-ari-21b59a1bb/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](asyarihutan92@gmail.com)
+- **Ali Dzulfigar**,  _Departement of Silvicuture, Faculty of Forestry and Environment, IPB University_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-alifigar-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/alifigar/) 
+- **Aulia Ulfa**, _Departement of Biology, Faculty of Mathematics and Natural Sciences_
+   <br />  [![GitHub](https://img.shields.io/badge/GitHub-ulfaulia-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/azeliadr/) 
+- **Raditya Febri**, _Departement of Biology, Faculty of Mathematics and Natural Sciences_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-febridty-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/febridty/) 
+- **Sylva Puspita**, _Departement of Forest Management, Faculty of Forestry and Environment, IPB University_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-sylvapuspita1-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/sylvapuspita1/) 
+- **Julita Catri Adila**,  _Departement of Biology, Faculty of Mathematics and Natural Sciences_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-catriadila-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/catriadila/) 
+- **Lalita Mahardika Putri Firmansyah**, _Departement of Biochemistry, Faculty of Mathematics and Natural Sciences_
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-lalitampff-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/lalitampff/) 
 ________________________________________________________________________________________________________________________________________________________
 
 
