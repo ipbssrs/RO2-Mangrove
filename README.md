@@ -25,6 +25,18 @@ SSRS RO2 - Mangrove Research Group is a research group of IPB SSRS Association
   <br /> [![GitHub](https://img.shields.io/badge/GitHub-catriadila-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/catriadila/) 
 - **Lalita Mahardika Putri Firmansyah**, _Departement of Biochemistry, Faculty of Mathematics and Natural Sciences_
   <br /> [![GitHub](https://img.shields.io/badge/GitHub-lalitampff-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/lalitampff/) 
+  
+  ## `Project`
+  * ![gem](https://img.shields.io/badge/PROJECT_1-Java_Mangrove_Monitoring-blue) ![gem](https://img.shields.io/badge/PUBLICATION-P1/P2/P3/P4-blue)
+  * ![gem](https://img.shields.io/badge/PROJECT_2-Mangrove_Spasio-Temporal_purple) ![gem](https://img.shields.io/badge/PUBLICATION-P5-purple)
+  * ![gem](https://img.shields.io/badge/PROJECT_3-Artificial_Intellegence_Aplication-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P6/P7-yellow)
+
+## `Progress`
+
+## `Publication`
+* Rahmawati AD, Asy'Ari R. 2021. Google Earth Engine: Pemanfaatan Platform Pemetaan Berbasis Cloud Computing dalam Mendeteksi Distribusi Mangrove Dengan Citra Sentinel-2 di Jakarta. 
+* Asy'Ari R, Rahmawati AD, Sa'diyya N, Gustawan AH, Setiawan Y, Zamani NP, Pramulya R. 2022. Mapping Mangrove Forest Distribution on Banten, Jakarta, and West Java Ecotone Zone From Sentinel-2-Derived Indices Using Cloud Computing Based Random Forest. 
+* Rahmawati AD, Asy'Ari R, Fathonah MA, Priyanto, Zamani NP, Pramultya R, Setiawan Y. Vegetation-Water-Built Up Index Combined: Algorithm Indices Combination for Characterization and Distribution of Mangrove Forest through Google Earth Engine
 ________________________________________________________________________________________________________________________________________________________
 
 
