@@ -8,7 +8,7 @@ SSRS RO2 - Mangrove Research Group is a research group of IPB SSRS Association
  - **Dr. Yudi Setiawan, S.P., M.Env.Sc**, _Department of Forest Resources Conservation and Ecotourism, Faculty of Forestry and Environment, IPB University_
 ## `Reseacrh Team`
 - **Azelia Dwi Rahmawati** (RO Coordinator), _Departement of Forest Management, Faculty of Forestry and Environment, IPB University_
-  <br /> [![GitHub](https://img.shields.io/badge/GitHub-azeliadr-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/azeliadr/) 
+  <br /> [![GitHub](https://img.shields.io/badge/GitHub-azeliadr-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/azeliadr/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Azelia-Rahmawati) [![gem](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azelia-dwi-rahmawati/)
 - **Khairani Putri Marfi** (RO Secretary), _Departement of Silvicuture, Faculty of Forestry and Environment, IPB University_
    <br /> [![GitHub](https://img.shields.io/badge/GitHub-khairanimarfi-darkgrey?style=flat&logo=github&logoColor=white)](https://github.com/khairanimarfi/) 
 - **Rahmat Asy'Ari** (RO Coordinator), _Department of Forest Management, Faculty of Forestry and Environment, IPB University_
