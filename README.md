@@ -1,4 +1,4 @@
-# SSRS RO2 - Mangrove Reseacrh Group <a href="https://ssrs.ipb.ac.id/ro-2-forest/"><img src="https://github.com/ipbssrs/RO2-Mangrove/blob/main/ADMIN/Logo2_kecil.png" align="right" width="95" /><a href="https://ssrs.ipb.ac.id/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/Logo2_kecil.png" align="right" width="95" />
+# SSRS RO2 - Mangrove Reseacrh Group <a href="https://ssrs.ipb.ac.id/ro-2-mangrove/"><img src="https://github.com/ipbssrs/RO2-Mangrove/blob/979b4abeaeaadd523bc859501760a1e4063dc960/ADMIN/RO2-mgv.png" align="right" width="95" /><a href="https://ssrs.ipb.ac.id/"><img src="https://github.com/ipbssrs/RO1-Forest/blob/9de66f8d96760f1dd315df2b7af0062259c60ccc/ADMIN/Logo2_kecil.png" align="right" width="95" />
 <br /> 
 
 ##  `Overview`
