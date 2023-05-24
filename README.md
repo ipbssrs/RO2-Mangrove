@@ -32,6 +32,9 @@ SSRS RO2 - Mangrove Research Group is a research group of IPB SSRS Association
   * ![gem](https://img.shields.io/badge/PROJECT_3-Artificial_Intellegence_Aplication-yellow) ![gem](https://img.shields.io/badge/PUBLICATION-P6/P7-yellow)
 
 ## `Progress`
+* [![Generic badge](https://img.shields.io/badge/PROJECT_1-FINISH-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/100?title=P1&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/100?title=P2&color=grey)](https://shields.io/) [![Generic badge](https://progress-bar.dev/100?title=P3&color=grey)](https://shields.io/) 
+*   [![Generic badge](https://img.shields.io/badge/PROJECT_2-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/78?title=P5&color=grey)](https://shields.io/) 
+* [![Generic badge](https://img.shields.io/badge/PROJECT_3-ON_PROGRES-<COLOR>.svg)](https://shields.io/) ![](https://geps.dev/progress/40?dangerColor=800000&warningColor=ff9900&successColor=006600)  [![Generic badge](https://progress-bar.dev/78?title=P5&color=grey)](https://shields.io/) 
 
 ## `Publication`
 * Rahmawati AD, Asy'Ari R. 2021. Google Earth Engine: Pemanfaatan Platform Pemetaan Berbasis Cloud Computing dalam Mendeteksi Distribusi Mangrove Dengan Citra Sentinel-2 di Jakarta. 
